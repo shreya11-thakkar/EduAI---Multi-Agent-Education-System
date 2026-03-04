@@ -1,4 +1,5 @@
 🎓 EduAI – Multi-Agent Education System
+
 📌 Overview
 
 AI-powered system to generate structured study notes
